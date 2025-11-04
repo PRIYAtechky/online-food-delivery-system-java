@@ -5,6 +5,16 @@ The **Online Food Delivery System** is a Java console-based application that all
 This project showcases Object-Oriented Programming (OOP) principles — **inheritance, polymorphism, and collections** — in action.
 
 ---
+## Tech Stack Used
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_(Core_Java)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java (Core Java)" />
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-008C76?style=for-the-badge&logo=databricks&logoColor=white" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/Data_Structures_List_&_Map-4479A1?style=for-the-badge&logo=gnu&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" />
+</p>
+
+---
 
 ## Features
 ### Admin Module
@@ -42,17 +52,6 @@ This project showcases Object-Oriented Programming (OOP) principles — **inheri
 - **Inheritance**: `Customer` extends `User`.
 - **Polymorphism**: Overridden `toString()` methods.
 - **Collections Framework**: Utilizes `Map`, `List`, and `Set` for data management.
-
----
-## Tech Stack Used
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java_(Core_Java)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java (Core Java)" />
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-008C76?style=for-the-badge&logo=databricks&logoColor=white" alt="Object-Oriented Programming" />
-  <img src="https://img.shields.io/badge/Data_Structures_List_&_Map-4479A1?style=for-the-badge&logo=gnu&logoColor=white" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" />
-</p>
-
 
 ---
 
