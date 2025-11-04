@@ -4,7 +4,7 @@
 The **Online Food Delivery System** is a Java console-based application that allows customers to browse restaurants, add food items to their cart, place orders, and track their delivery status. Admins can manage restaurants, food items, and delivery personnel, while customers can register, view menus, and order food.  
 This project showcases Object-Oriented Programming (OOP) principles — **inheritance, polymorphism, and collections** — in action.
 
----
+
 ## Tech Stack Used
 
 <p align="left">
@@ -14,7 +14,6 @@ This project showcases Object-Oriented Programming (OOP) principles — **inheri
   <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" />
 </p>
 
----
 
 ## Features
 ### Admin Module
@@ -31,7 +30,6 @@ This project showcases Object-Oriented Programming (OOP) principles — **inheri
 - View and update cart items
 - Place and track orders
 
----
 
 ## Classes & Relationships
 | Class | Description |
@@ -45,15 +43,12 @@ This project showcases Object-Oriented Programming (OOP) principles — **inheri
 | 📦 **Order** | Tracks order details, items, customer info, and delivery status. |
 
 
----
-
 ## Concepts Used
 - **Encapsulation**: All class fields are private and accessed through getters/setters.
 - **Inheritance**: `Customer` extends `User`.
 - **Polymorphism**: Overridden `toString()` methods.
 - **Collections Framework**: Utilizes `Map`, `List`, and `Set` for data management.
 
----
 
 ## How to Run
 1. Clone this repository  
