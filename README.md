@@ -1,4 +1,4 @@
-# online-food-delivery-system-java
+# Online Food Delivery System
 
 ## Overview
 The **Online Food Delivery System** is a Java console-based application that allows customers to browse restaurants, add food items to their cart, place orders, and track their delivery status. Admins can manage restaurants, food items, and delivery personnel, while customers can register, view menus, and order food.  
